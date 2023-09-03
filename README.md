@@ -1,2 +1,2 @@
 # PortScanner
-Simple PortScanner in python
+Simple PortScanner in Java
